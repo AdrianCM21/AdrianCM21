@@ -1,9 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Encantado de verte.</h1>
 
 
-<p>¡Bienvenido a mi página! </br> Soy Adrian, Desarrollador Full Stack y estudiante de ingeniería informática de <img src="https://user-images.githubusercontent.com/113633896/232132113-99aece76-2df9-4fea-8396-c0c043dd73e6.png" width="18"/> <b>Itapua Poty, Paraguay</b>, actualmente vive en <img src="https://user-images.githubusercontent.com/113633896/232132113-99aece76-2df9-4fea-8396-c0c043dd73e6.png" width="18"/> <b>Encarnacion, Paraguay </b>. </p>
+<p><br>¡Bienvenido a mi página!</b> </br>Soy Adrian, Desarrollador Full Stack y estudiante de ingeniería informática</p>
+<p>Soy de <img src="https://user-images.githubusercontent.com/113633896/232132113-99aece76-2df9-4fea-8396-c0c043dd73e6.png" width="18"/> <b>Itapua Poty, Paraguay</b>, actualmente vivo en <img src="https://user-images.githubusercontent.com/113633896/232132113-99aece76-2df9-4fea-8396-c0c043dd73e6.png" width="18"/> <b>Encarnacion, Paraguay</b>.</p>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E .svg?&style=para-la-insignia&logo=Github&logoColor=blanco" height="30"/></a> <a href="https://www. linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the -insignia&logo=linkedin&logoColor=blanco" height="30"/></a> <a href="mailto:adriancasco2002@gmail.com/" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
-</p> 
+
 <h3>Cosas con las que codifico</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
