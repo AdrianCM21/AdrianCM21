@@ -8,21 +8,24 @@
  ## Proyectos
   
   ### Personales 
-   <a href='https://github.com/AdrianCM21/Proyecto-Administrador' target="_BLANK"><img alt="My admin" src="https://img.shields.io/badge/Proyecto-My%20admin-blue" height="30" /></a>
+   <a href='https://github.com/AdrianCM21/Proyecto-Administrador' target="_BLANK"><img alt="My admin" src="https://img.shields.io/badge/Proyecto-My%20admin-blue" height="26" /></a> 
+  <a href='https://github.com/AdrianCM21/Juego_de_mesa-Meta' target="_BLANK"><img alt="Juego de mesa" src="https://img.shields.io/badge/Proyecto-Juego%20de%20mesa-blue" height="26" /></a> 
+   <a href='https://github.com/AdrianCM21/PROYECTO-Tienda-Mascotas' target="_BLANK"><img alt="Tienda de mascotas" src="https://img.shields.io/badge/Proyecto-Tienda%20de%20Mascotas-blue" height="26" /></a>
   
-  <a href='https://github.com/AdrianCM21/Juego_de_mesa-Meta' target="_BLANK"><img alt="Juego de mesa" src="https://img.shields.io/badge/Proyecto-Juego%20de%20mesa-blue" height="30" /></a>
+  <a href='https://github.com/AdrianCM21/Mini_Proyecto-Speed_Typing' target="_BLANK"><img alt="Mecanografia" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Mecanografia-orange" height="26" /></a>
+  <a href='https://github.com/AdrianCM21/Mini_Proyecto-Lista_de_tareas' target="_BLANK"><img alt="Lista de tareas" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Listas%20Tareas-orange" height="26" /></a>
+  <a href='https://github.com/AdrianCM21/Mini_Proyecto-Calculadora' target="_BLANK"><img alt="Calculadora" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Calculadora-orange" height="26" /></a>
+  <a href='https://github.com/AdrianCM21/Mini-Proyecto-Calculadora-basal' target="_BLANK"><img alt="Calculadora basal" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Calculadora%20Basal-orange" height="26" /></a>
   
-   <a href='https://github.com/AdrianCM21/PROYECTO-Tienda-Mascotas' target="_BLANK"><img alt="Tienda de mascotas" src="https://img.shields.io/badge/Proyecto-Tienda%20de%20Mascotas-blue" height="30" /></a>
+   <a href='https://github.com/AdrianCM21/Mini_Juego-Ahorcados' target="_BLANK"><img alt="Ahorcados" src="https://img.shields.io/badge/MiniJuego-Ahorcados-green" height="26" /></a>
+   <a href='https://github.com/AdrianCM21/Mini_Juego-Par' target="_BLANK"><img alt="Encuentra su par" src="https://img.shields.io/badge/MiniJuego-Encuentra%20su%20par-green" height="26" /></a>
   
-  <a href='https://github.com/AdrianCM21/Mini_Proyecto-Speed_Typing' target="_BLANK"><img alt="Mecanografia" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Mecanografia-orange" height="30" /></a>
-  <a href='https://github.com/AdrianCM21/Mini_Proyecto-Lista_de_tareas' target="_BLANK"><img alt="Lista de tareas" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Listas%20Tareas-orange" height="30" /></a>
-  <a href='https://github.com/AdrianCM21/Mini_Proyecto-Calculadora' target="_BLANK"><img alt="Calculadora" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Calculadora-orange" height="30" /></a>
-  <a href='https://github.com/AdrianCM21/Mini-Proyecto-Calculadora-basal' target="_BLANK"><img alt="Calculadora basal" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Calculadora%20Basal-orange" height="30" /></a>
-  
-   <a href='https://github.com/AdrianCM21/Mini_Juego-Ahorcados' target="_BLANK"><img alt="Ahorcados" src="https://img.shields.io/badge/MiniJuego-Ahorcados-green" height="30" /></a>
-   <a href='https://github.com/AdrianCM21/Mini_Juego-Par' target="_BLANK"><img alt="Encuentra su par" src="https://img.shields.io/badge/MiniJuego-Encuentra%20su%20par-green" height="30" /></a>
-  
-<h3>Cosas con las que codifico</h3>
+ ### Colaboraciones
+  <a href='https://github.com/rodmacPy/voluntariado-abuelos' target="_BLANK"><img alt="Abuelas" src="https://img.shields.io/badge/Proyecto-Voluntariado%20Abuelos-blue" height="26" /></a> 
+ <a href='https://github.com/proyeclenguaje/Cartas-contra-la-humanidad' target="_BLANK"><img alt="Cartas contra humanidad" src="https://img.shields.io/badge/Proyecto-Cartas%20Contra%20Humanidad-blue" height="26" /></a> 
+ <a href='https://github.com/emiliogobe3576/momarandu' target="_BLANK"><img alt="Momarandu" src="https://img.shields.io/badge/Proyecto-Momarandu-blue" height="26" /></a> 
+ 
+## Cosas con las que codifico
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
