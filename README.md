@@ -5,7 +5,7 @@
 <p>Soy de <img src="https://user-images.githubusercontent.com/113633896/232132113-99aece76-2df9-4fea-8396-c0c043dd73e6.png" width="18"/> <b>Itapua Poty, Paraguay</b>, actualmente vivo en <img src="https://user-images.githubusercontent.com/113633896/232132113-99aece76-2df9-4fea-8396-c0c043dd73e6.png" width="18"/> <b>Encarnacion, Paraguay</b>.</p>
 <p><a href="https://github.com/AdrianCM21/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E .svg?&style=para-la-insignia&logo=Github&logoColor=blanco" height="30"/></a> <a href="https://www.linkedin.com/in/adrian-casco-morinigo-395b7a250" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the -insignia&logo=linkedin&logoColor=blanco" height="30"/></a> <a href="mailto:adriancasco2002@gmail.com/" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 
- ## Proyectos
+ ## Proyectos (Al presionar te lleva a su repositorio)
   
   ### Personales 
    <a href='https://github.com/AdrianCM21/Proyecto-Administrador' target="_BLANK"><img alt="My admin" src="https://img.shields.io/badge/Proyecto-My%20admin-blue" height="26" /></a> 
