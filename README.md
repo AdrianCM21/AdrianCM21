@@ -5,6 +5,23 @@
 <p>Soy de <img src="https://user-images.githubusercontent.com/113633896/232132113-99aece76-2df9-4fea-8396-c0c043dd73e6.png" width="18"/> <b>Itapua Poty, Paraguay</b>, actualmente vivo en <img src="https://user-images.githubusercontent.com/113633896/232132113-99aece76-2df9-4fea-8396-c0c043dd73e6.png" width="18"/> <b>Encarnacion, Paraguay</b>.</p>
 <p><a href="https://github.com/AdrianCM21/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E .svg?&style=para-la-insignia&logo=Github&logoColor=blanco" height="30"/></a> <a href="https://www.linkedin.com/in/adrian-casco-morinigo-395b7a250" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the -insignia&logo=linkedin&logoColor=blanco" height="30"/></a> <a href="mailto:adriancasco2002@gmail.com/" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 
+ ## Proyectos
+  
+  ### Personales 
+   <a href='https://github.com/AdrianCM21/Proyecto-Administrador' target="_BLANK"><img alt="My admin" src="https://img.shields.io/badge/Proyecto-My%20admin-blue" height="30" /></a>
+  
+  <a href='https://github.com/AdrianCM21/Juego_de_mesa-Meta' target="_BLANK"><img alt="Juego de mesa" src="https://img.shields.io/badge/Proyecto-Juego%20de%20mesa-blue" height="30" /></a>
+  
+   <a href='https://github.com/AdrianCM21/PROYECTO-Tienda-Mascotas' target="_BLANK"><img alt="Tienda de mascotas" src="https://img.shields.io/badge/Proyecto-Tienda%20de%20Mascotas-blue" height="30" /></a>
+  
+  <a href='https://github.com/AdrianCM21/Mini_Proyecto-Speed_Typing' target="_BLANK"><img alt="Mecanografia" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Mecanografia-orange" height="30" /></a>
+  <a href='https://github.com/AdrianCM21/Mini_Proyecto-Lista_de_tareas' target="_BLANK"><img alt="Lista de tareas" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Listas%20Tareas-orange" height="30" /></a>
+  <a href='https://github.com/AdrianCM21/Mini_Proyecto-Calculadora' target="_BLANK"><img alt="Calculadora" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Calculadora-orange" height="30" /></a>
+  <a href='https://github.com/AdrianCM21/Mini-Proyecto-Calculadora-basal' target="_BLANK"><img alt="Calculadora basal" src="https://img.shields.io/badge/Aplicaci%C3%B3n%20-Calculadora%20Basal-orange" height="30" /></a>
+  
+   <a href='https://github.com/AdrianCM21/Mini_Juego-Ahorcados' target="_BLANK"><img alt="Ahorcados" src="https://img.shields.io/badge/MiniJuego-Ahorcados-green" height="30" /></a>
+   <a href='https://github.com/AdrianCM21/Mini_Juego-Par' target="_BLANK"><img alt="Encuentra su par" src="https://img.shields.io/badge/MiniJuego-Encuentra%20su%20par-green" height="30" /></a>
+  
 <h3>Cosas con las que codifico</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
