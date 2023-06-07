@@ -10,7 +10,8 @@
   ### Personales 
    <a href='https://github.com/AdrianCM21/Proyecto-Administrador' target="_BLANK"><img alt="My admin" src="https://img.shields.io/badge/Proyecto-My%20admin-blue" height="26" /></a> 
   <a href='https://github.com/AdrianCM21/Juego_de_mesa-Meta' target="_BLANK"><img alt="Juego de mesa" src="https://img.shields.io/badge/Proyecto-Juego%20de%20mesa-blue" height="26" /></a> 
-   <a href='https://github.com/AdrianCM21/PROYECTO-Tienda-Mascotas' target="_BLANK"><img alt="Tienda de mascotas" src="https://img.shields.io/badge/Proyecto-Tienda%20de%20Mascotas-blue" height="26" /></a>
+  <a href='https://github.com/AdrianCM21/PROYECTO-Algoritmo' target="_BLANK"><img alt="Algoritmos" src="https://img.shields.io/badge/Proyecto-Algoritmos-blue" height="26" /></a> 
+ <a href='https://github.com/AdrianCM21/PROYECTO-Tienda-Mascotas' target="_BLANK"><img alt="Tienda de mascotas" src="https://img.shields.io/badge/Proyecto-Tienda%20de%20Mascotas-blue" height="26" /></a>
   
   ### Colaboraciones
   <a href='https://github.com/rodmacPy/voluntariado-abuelos' target="_BLANK"><img alt="Abuelas" src="https://img.shields.io/badge/Proyecto-Voluntariado%20Abuelos-blue" height="26" /></a> 
