@@ -8,6 +8,10 @@
  ## Proyectos (Presiona para ir al repositorio)
   
   ### Personales 
+  <a href='https://github.com/AdrianCM21/Ykuatia-Back-End' target="_BLANK"><img alt="app" src="https://img.shields.io/badge/Proyecto-Ykuatia%20(Node)-blue" height="26" /></a> 
+  <a href='https://github.com/AdrianCM21/Ykuatia-Front-End' target="_BLANK"><img alt="a" src="https://img.shields.io/badge/Proyecto-Ykuatia%20(React)-blue" height="26" /></a> 
+  <a href='https://github.com/AdrianCM21/blog-django' target="_BLANK"><img alt="Blog app" src="https://img.shields.io/badge/Proyecto-Blog%20(Django)-blue" height="26" /></a> 
+   <a href='https://github.com/AdrianCM21/blog-react-native' target="_BLANK"><img alt="Blog app movil" src="https://img.shields.io/badge/Proyecto-Blog%20(React%20Native)-blue" height="26" /></a> 
    <a href='https://github.com/AdrianCM21/Proyecto-Administrador' target="_BLANK"><img alt="My admin" src="https://img.shields.io/badge/Proyecto-My%20admin-blue" height="26" /></a> 
   <a href='https://github.com/AdrianCM21/Juego_de_mesa-Meta' target="_BLANK"><img alt="Juego de mesa" src="https://img.shields.io/badge/Proyecto-Juego%20de%20mesa-blue" height="26" /></a> 
   <a href='https://github.com/AdrianCM21/PROYECTO-Algoritmo' target="_BLANK"><img alt="Algoritmos" src="https://img.shields.io/badge/Proyecto-Algoritmos-blue" height="26" /></a> 
