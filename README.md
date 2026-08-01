@@ -1,6 +1,6 @@
 # Hola, soy Adrián
 
-Desarrollador full stack y estudiante de Ingeniería Informática.  
+Ingeniero Informatico.  
 De **Itapúa Poty**, Paraguay. Actualmente vivo en **Encarnación**.
 
 <a href="https://github.com/AdrianCM21/" target="_blank">
